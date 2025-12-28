@@ -1,7 +1,3 @@
-Below is a ready-to-paste **README.md** for a GitHub repo based on your notebook (coffee shop “dirty sales” dataset cleaning + visualization). It reflects what appears in the notebook: loading the Kaggle dataset via `kagglehub`, handling `NaN` / `ERROR` / `UNKNOWN`, imputing numeric fields, and validating/fixing `Total Spent = Quantity × Price Per Unit`.[1]
-
-***
-
 # Coffee Shop Sales Data Cleaning & Visualization
 
 This project cleans and explores a **dirty coffee shop sales dataset** (10,000 rows) containing missing values and inconsistent entries such as `ERROR` and `UNKNOWN`.[1]
